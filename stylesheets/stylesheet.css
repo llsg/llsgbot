@@ -16,7 +16,7 @@ html {
  * Remove default margin.
  */
 p + ul {
-    margin-top: -25px;
+    margin-top: -20px;
 }
 body {
   margin: 0;
